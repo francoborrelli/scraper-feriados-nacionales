@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "moment": "^2.29.3",
+    "puppeteer": "^13.1.2"
+  },
+  "scripts": {
+    "start": "node startScrapper.js"
+  },
+  "packageManager": "yarn@3.2.1"
+}
